@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1+eu+sou+o+Rhian+...!;Estudante+de+DEV)](https://git.io/typing-svg)" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1+eu+sou+o+Rhian+...!;Estudante+de+DEV" alt="Typing SVG" />
 </h1>
 
 <h2>👨‍💻 Sobre Mim</h2>
