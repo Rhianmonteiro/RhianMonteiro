@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=500&lines=Eai%2C+blz%3F+Sou+o+%5BSEU+NOME%5D!;Estudante+de+Desenvolvimento+de+Sistemas;Buscando+minha+primeira+oportunidade+na+%C3%A1rea" alt="Typing SVG" />
+  <img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1+eu+sou+o+Rhian+...!;Estudante+de+DEV)](https://git.io/typing-svg)" alt="Typing SVG" />
 </h1>
 
 <h2>👨‍💻 Sobre Mim</h2>
